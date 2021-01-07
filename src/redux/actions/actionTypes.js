@@ -1,0 +1,5 @@
+export default {
+    TEST_CONSTANT: 'TEST_CONSTANT',
+    SET_LOADING: 'SET_LOADING',
+    SET_ERROR: 'SET_ERROR',
+};
